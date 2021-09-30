@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JBellows-git
 - 👀 I’m interested in Web and Application Development
-- 🌱 I’m currently learning Throught the Odin Project
+- 🌱 I’m currently learning Through the Odin Project
 - 💞️ I’m not currently looking to collaborate on anything
 
 <!---
