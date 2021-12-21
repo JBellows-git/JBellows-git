@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @JBellows-git
-- 👀 I’m interested in Web and Application Development
-- 🌱 I’m currently learning Through the Odin Project
-- 💞️ I’m not currently looking to collaborate on anything
+- 👋 Hi, I’m John Bellows. If you're looking at this then I likely applied to your company. Stay a while and take a look around, I hope you like what you see.
+
 
 <!---
 JBellows-git/JBellows-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
