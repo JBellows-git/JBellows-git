@@ -1,5 +1,6 @@
 - 👋 Hi, I’m John Bellows. If you're looking at this then I likely applied to your company. Stay a while and take a look around, I hope you like what you see.
 
+These are very old projects that I haven't touched in a long time. They are not accurate representation of my current skills in coding.
 
 Quick Overview:
 -Homebrewer Project - Java
